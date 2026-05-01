@@ -4,6 +4,14 @@
 
 
 
+![congratulation_cover](congratulation_cover.jpg)
+
+**《SparkScroll》项目获Nvidia DGX Spar黑客松大赛第八名！！！**
+
+
+
+![congratulation_cover](nvidia-certificate.png)
+
 
 
 ## 📖项目简介
@@ -29,13 +37,11 @@ SparkScroll是一个面向经典文学内容生成的多模态创作项目，围
 
 ## 📆更新说明及团队动态
 
-
-
 [2026.4.10]   **张小白**发布《在Nvidia DGX Spark使用TensorRT-LLM部署NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4模型》：https://zhuanlan.zhihu.com/p/2025685426493506830
 
-[2026.4.9]   **张小白**发布《在Nvidia DGX Spark使用docker部署FireRed-Image-Edit图像编辑模型服务》：https://zhuanlan.zhihu.com/p/2025459284385743751  **寒晨**发布《TensorRT-LLM模型部署NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4记录》： https://gitee.com/zhanghui_china/SparkScroll/tree/master/localmodel/TensorRT-LLM/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4  **飞哥**提交《带故事情节的西游记漫画版本》 https://gitee.com/zhanghui_china/SparkScroll/commit/906deb509f4b2f5726c159dd8b9b271df2e5dbed  **张小白**发布项目介绍视频（更新版）：https://www.bilibili.com/video/BV1JJDxBAETr/
+[2026.4.9]   **张小白**发布《在Nvidia DGX Spark使用docker部署FireRed-Image-Edit图像编辑模型服务》：https://zhuanlan.zhihu.com/p/2025459284385743751  **寒晨**发布《TensorRT-LLM模型部署NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4记录》：https://github.com/zhanghui-china/SparkScroll/blob/main/localmodel/TensorRT-LLM/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4/README.md  **张小白**发布项目介绍视频（更新版）：https://www.bilibili.com/video/BV1JJDxBAETr/
 
-[2026.4.8]   **张小白**发布《SparkScroll项目操作指南》：https://zhuanlan.zhihu.com/p/2024950757548401621 ，**飞哥**发布《NVIDIA 首届DGX Spark 全栈AI开发黑客松成果展示》视频：https://www.bilibili.com/video/BV1CVDjBLE7C  **张小白**、**飞哥**提交赛前证书  https://gitee.com/zhanghui_china/SparkScroll/blob/master/certificate/certificate.md
+[2026.4.8]   **张小白**发布《SparkScroll项目操作指南》：https://zhuanlan.zhihu.com/p/2024950757548401621 ，**飞哥**发布《NVIDIA 首届DGX Spark 全栈AI开发黑客松成果展示》视频：https://www.bilibili.com/video/BV1CVDjBLE7C  
 
 [2026.4.7]   **张小白**发布项目介绍视频（初稿）：https://www.bilibili.com/video/BV1tnDiBGEDo/
 
@@ -79,15 +85,13 @@ SparkScroll是一个面向经典文学内容生成的多模态创作项目，围
 
 ## 🗂️ 文档导航
 
-| 路径                                                         | 说明                         |
-| ------------------------------------------------------------ | ---------------------------- |
-| [README.md](https://gitee.com/zhanghui_china/SparkScroll/blob/9cc60bfd73417e460908e4a753321a2799e44c63/README.md) | 中文总览                     |
-| [README.en.md](https://gitee.com/zhanghui_china/SparkScroll/blob/9cc60bfd73417e460908e4a753321a2799e44c63/README.en.md) | 英文总览                     |
-| [gateway/README.md](https://gitee.com/zhanghui_china/SparkScroll/blob/9cc60bfd73417e460908e4a753321a2799e44c63/gateway/README.md) | Gateway 服务说明、接口与部署 |
-| [client/README.md](https://gitee.com/zhanghui_china/SparkScroll/blob/9cc60bfd73417e460908e4a753321a2799e44c63/client/README.md) | Streamlit 前端说明           |
-| [localmodel/Qwen3.5-9B/README.md](https://gitee.com/zhanghui_china/SparkScroll/blob/9cc60bfd73417e460908e4a753321a2799e44c63/localmodel/Qwen3.5-9B/README.md) | Qwen3.5-9B 本地部署说明      |
-| [localmodel/Qwen-Image-Edit-2511/README.md](https://gitee.com/zhanghui_china/SparkScroll/blob/9cc60bfd73417e460908e4a753321a2799e44c63/localmodel/Qwen-Image-Edit-2511/README.md) | Qwen 图像编辑模型部署说明    |
-| [report/project_report.md](https://gitee.com/zhanghui_china/SparkScroll/blob/9cc60bfd73417e460908e4a753321a2799e44c63/report/project_report.md) | 项目报告与参赛材料           |
+| 路径                                                         | 说明                      |
+| ------------------------------------------------------------ | ------------------------- |
+| [README.md](https://github.com/zhanghui-china/SparkScroll/blob/main/README.md) | 中文总览                  |
+| [README.en.md](https://github.com/zhanghui-china/SparkScroll/blob/main/README.en.md) | 英文总览                  |
+| [localmodel/Qwen3.5-9B/README.md](https://github.com/zhanghui-china/SparkScroll/blob/main/localmodel/VLLM/Qwen3.5-9B/README.md) | Qwen3.5-9B 本地部署说明   |
+| [localmodel/Qwen-Image-Edit-2511/README.md](https://github.com/zhanghui-china/SparkScroll/blob/main/localmodel/origin/Qwen-Image-Edit-2511/README.md) | Qwen 图像编辑模型部署说明 |
+| [report/project_report.md](https://github.com/zhanghui-china/SparkScroll/blob/main/report/project_report.md) | 项目报告与参赛材料        |
 
 
 
@@ -106,9 +110,7 @@ SparkScroll是一个面向经典文学内容生成的多模态创作项目，围
 
 ## ✨项目报告
 
-【项目报告】 https://gitee.com/zhanghui_china/SparkScroll/blob/master/report/project_report.md
-
-【赛前证书】 https://gitee.com/zhanghui_china/SparkScroll/blob/master/certificate/certificate.md
+【项目报告】 https://github.com/zhanghui-china/SparkScroll/blob/main/report/project_report.md
 
 
 
